@@ -105,3 +105,7 @@ are related and have **high cohesion**.
 When we are programming, it is best to say we want to develop code that has
 high cohesion and low coupling to reflect a higher quality of software that is
 easier to maintain.
+
+## References
+
+- [Reference: Difference Between Cohesion and Coupling](https://www.baeldung.com/cs/cohesion-vs-coupling)
